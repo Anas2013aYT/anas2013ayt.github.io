@@ -1,3 +1,4 @@
+#000000
 # anas2013ayt.github.io AKA Anas Bin Noor's website
 This is a simple website by Anas from Bangladesh School Muscat aka [Anas2013a](youtube.com/@Anas2013aYT) from YouTube
 This site was built using [GitHub Pages](https://pages.github.com/).
