@@ -41,6 +41,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
       @@@@@@@@@@@@@@@@@@@%*++++=*@%*=---:*@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
 
 **pretty cool asci art huh**
+
 My school is  [Bangladesh School Muscat](https://en.wikipedia.org/wiki/Bangladesh_School_Muscat)
+
 ![School Logo.](https://www.bangladeshcircle.com/wp-content/uploads/2016/12/Bangladesh-School-Muscat-Oman-logo.jpg)
 
