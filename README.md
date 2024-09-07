@@ -10,6 +10,6 @@ My school is  [Bangladesh School Muscat](https://en.wikipedia.org/wiki/Banglades
 <iframe src='https://widgets.sociablekit.com/youtube-channel-videos/iframe/25459758' frameborder='0' width='100%' height='1000'></iframe>
 
 
-ms paint decoded to video
+ms paint decoded to video _(SEIZURE AND SOUND WARNING)_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-LloSJSd5c?si=2Una6IgLhpCPPoeD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
