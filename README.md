@@ -16,4 +16,4 @@ ms paint decoded to video _(SEIZURE AND SOUND WARNING)_
 
 Play Some Flash Games below
 
-```j <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>```
+<blockquote> <script src="https://unpkg.com/@ruffle-rs/ruffle"></script> </blockquote>
