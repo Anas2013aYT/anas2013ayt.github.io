@@ -9,7 +9,7 @@ My school is  [Bangladesh School Muscat](https://en.wikipedia.org/wiki/Banglades
 
 Website In Website 😲
 
-<iframe src="https://anas2013ayt.github.io/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="600px" allowfullscreen></iframe>
+<iframe src="https://anas2013ayt.github.io/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="550px" allowfullscreen></iframe>
 
 ms paint decoded to video _(SEIZURE AND SOUND WARNING)_
 
